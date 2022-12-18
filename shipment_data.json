@@ -1,0 +1,187 @@
+[
+    {
+        "shipmentID": "2a33193a-800a-4388-883a-37e73d3a9583",
+        "customerID": "972592b9-a4a7-47a4-a27d-8df2b63fa562",
+        "orderNumber": "123456789",
+        "receiveAddress": {
+            "line1": "048 Shanahan Overpass",
+            "line2": "Apt. 670",
+            "line3": null,
+            "city": "Arnotown",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "Bangladesh"
+        },
+        "sendAddress": {
+            "line1": "105 Sikes Hall",
+            "line2": null,
+            "line3": null,
+            "city": "Clemson",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "United States"
+        },
+        "status": "Processing",
+        "items": [
+            {
+                "itemID": "2468",
+                "itemLocation": "15-A3-32"
+            },
+            {
+                "itemID": "1357",
+                "itemLocation": "54-C1-04"
+            }
+        ],
+        "weight": 970,
+        "trackingNumber": 674,
+        "shippingCompany": "Kirlin - Runolfsson"
+    },
+    {
+        "shipmentID": "201",
+        "customerID": "1234",
+        "orderNumber": "5678901234",
+        "receiveAddress": {
+            "line1": "237 Kunde Points",
+            "line2": "Apt. 564",
+            "line3": null,
+            "city": "Darrenmouth",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "Taiwan"
+        },
+        "sendAddress": {
+            "line1": "105 Sikes Hall",
+            "line2": null,
+            "line3": null,
+            "city": "Clemson",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "United States"
+        },
+        "status": "Delivered",
+        "items": [
+            {
+                "itemID": "1234",
+                "itemLocation": "60-F3-19"
+            },
+            {
+                "itemID": "5678",
+                "itemLocation": "11-E3-42"
+            }
+        ],
+        "weight": 1,
+        "trackingNumber": 322,
+        "shippingCompany": "Lubowitz Inc"
+    },
+    {
+        "shipmentID": "cce1457d-1927-4ad2-a1e1-4d6311b930d2",
+        "customerID": "10e64993-8c54-4853-91d9-cd6333243632",
+        "orderNumber": "563738942",
+        "receiveAddress": {
+            "line1": "6966 Ledner Lodge",
+            "line2": "Apt. 245",
+            "line3": null,
+            "city": "New Nicoletteside",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "Venezuela"
+        },
+        "sendAddress": {
+            "line1": "105 Sikes Hall",
+            "line2": null,
+            "line3": null,
+            "city": "Clemson",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "United States"
+        },
+        "status": "Processing",
+        "items": [
+            {
+                "itemID": "5621",
+                "itemLocation": "60-G4-21"
+            },
+            {
+                "itemID": "5678",
+                "itemLocation": "24-D3-13"
+            }
+        ],
+        "weight": 134,
+        "trackingNumber": 107,
+        "shippingCompany": "Terry, Considine and Osinski"
+    },
+    {
+        "shipmentID": "94b43d46-5dbd-4ba4-8bd7-2e9e2c10fdd9",
+        "customerID": "5d786952-f836-483c-9f1d-8b4fdcfcb5f7",
+        "orderNumber": "872190245",
+        "receiveAddress": {
+            "line1": "50380 Adams Stream",
+            "line2": "Apt. 793",
+            "line3": null,
+            "city": "Zakaryville",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "Serbia"
+        },
+        "sendAddress": {
+            "line1": "105 Sikes Hall",
+            "line2": null,
+            "line3": null,
+            "city": "Clemson",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "United States"
+        },
+        "status": "Shipped",
+        "items": [
+            {
+                "itemID": "5497",
+                "itemLocation": "31-T6-90"
+            },
+            {
+                "itemID": "1364",
+                "itemLocation": "15-N4-03"
+            }
+        ],
+        "weight": 7,
+        "trackingNumber": 658,
+        "shippingCompany": "Walker - Keeling"
+    },
+    {
+        "shipmentID": "df9a6657-e1b1-469e-8fe9-3f7e02c07f44",
+        "customerID": "57a479c6-21bd-43e1-8e7d-46e153e39811",
+        "orderNumber": "245178931",
+        "receiveAddress": {
+            "line1": "585 Mante Corners",
+            "line2": "Apt. 909",
+            "line3": null,
+            "city": "North Lillianaville",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "Northern Mariana Islands"
+        },
+        "sendAddress": {
+            "line1": "105 Sikes Hall",
+            "line2": null,
+            "line3": null,
+            "city": "Clemson",
+            "state": "SC",
+            "zipcode": 29634,
+            "country": "United States"
+        },
+        "status": "Delivered",
+        "items": [
+            {
+                "itemID": "3150",
+                "itemLocation": "19-H7-21"
+            },
+            {
+                "itemID": "4563",
+                "itemLocation": "41-P0-01"
+            }
+        ],
+        "weight": 482,
+        "trackingNumber": 485,
+        "shippingCompany": "Feil, Swaniawski and Halvorson"
+    }
+]
